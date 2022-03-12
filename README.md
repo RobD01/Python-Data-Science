@@ -1,5 +1,5 @@
 <h2>About Me:</h2>
-<p><span style="font-size: 20px;">I am recently learning python again. I would like to incorporate it into data science or stock investments. aside from learning programming, my passions include finance and photography.</span></p>
+<p><span style="font-size: 20px;">I am recently learning python again. I would like to incorporate it into data science or stock investments. Asides from learning programming, my passions include finance and photography.</span></p>
 <h2><br></h2>
 <h2>Social Media:</h2>
 <ul>
